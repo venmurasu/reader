@@ -32,7 +32,10 @@ Propose to have an version that is online reading friendly
   - Choose font and size
   - Dark/light mode
   - Bookmarks
-  
+
+Technology choices:
+  - futurepress.org
+    
 ### Annotation
 Propose to have a annotation feature to store user annotations
 
