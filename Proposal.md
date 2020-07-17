@@ -4,7 +4,7 @@
 
 Venmurasu is the novel series by Tamil literary writer [Mr.B.Jeyamohan](http://jeyamohan.in) retelling Indian Epic Mahabaratha in 26 books running over 25000 pages continuously published on [web](http://venmurasu.in) as a chapter a day over a period of 6.5 years from Jan 2014 to July 2020.
 
-This magnum opus needs a companion reader to critically analyze, understand the nuances and appreciate other readers perspective and thus enhance ones own appreciation for years to come and to serve as a living 
+This magnum opus needs a companion reader to critically analyze, understand the nuances and appreciate other readers perspective and thus enhance ones own appreciation for years to come and to serve as a living, content/context enriched work.
 
 ## Features
 
