@@ -35,6 +35,7 @@ Propose to have an version that is online reading friendly
 
 Technology choices:
   - futurepress.org
+  - [vivliostyle](https://github.com/vivliostyle)
     
 ### Annotation
 Propose to have a annotation feature to store user annotations
