@@ -24,6 +24,7 @@ Technology choices:
 
   - Elasticsearch
   - Meilisearch
+  - Blevesearch
   - Sphinxsearch 
 
 ### Read Online 
@@ -34,6 +35,7 @@ Propose to have an version that is online reading friendly
   - Bookmarks
 
 Technology choices:
+  - Readium
   - futurepress.org
   - [vivliostyle](https://github.com/vivliostyle)
     
